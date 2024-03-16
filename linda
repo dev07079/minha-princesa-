@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Declaração de Amor</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            text-align: center;
+        }
+        header {
+            background-color: #ff4d4d;
+            color: #fff;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #ff4d4d;
+            color: #fff;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Para o Amor da Minha Vida</h1>
+</header>
+
+<section>
+    <p>Meu amor,</p>
+    <p>Você é a pessoa mais especial que já entrou na minha vida. Cada momento ao seu lado é um presente e eu sou imensamente grato por ter você comigo.</p>
+    <p>Você me faz feliz de uma maneira que eu nunca soube que era possível. Sua presença ilumina meus dias e eu não consigo imaginar minha vida sem você.</p>
+    <p>Eu te amo mais do que as palavras podem expressar. Você é o meu tudo, minha razão de viver, meu amor eterno.</p>
+    <p>Com todo o meu amor,</p>
+    <p>[Seu nome]</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Declaração de Amor</p>
+</footer>
+
+</body>
+</html>
